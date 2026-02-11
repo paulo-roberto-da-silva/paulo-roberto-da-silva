@@ -8,13 +8,6 @@
 
 <hr>
 
-<div>
-<a href="https://github.com/paulo-roberto-da-silva">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo-robrto-da-silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-  
-</div>
-
 ## 🚀 Um pouco sobre mim
 
 - 🎓 Cursando Ciências da Computação
@@ -45,8 +38,6 @@
 🔹 API REST com autenticação JWT  
 🔹 Sistema de gerenciamento com banco de dados relacional  
 🔹 Projeto aplicando conceitos de Clean Architecture  
-
-*(Atualize essa seção conforme for criando projetos reais)*
 
 ---
 
