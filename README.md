@@ -10,8 +10,11 @@
 - 📚 Sempre aprendendo algo novo
 - 🎯 Objetivo: Crescer como desenvolvedor e criar projetos impactantes para sociedade e para o meu dia a dia
 
-- https://img.shields.io/badge/https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQaZWkwcHK_g5_g3yZpEu9W-4bWwpX4wzzWBA%26s
+## 🛠️ Tecnologias
 
+![HTML](https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2196f3?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 
 <!--
 **paulo-roberto-da-silva/paulo-roberto-da-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
