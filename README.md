@@ -5,7 +5,7 @@
 
 ## 🚀 Um pouco sobre mim
 
-- 🎓 Cursando Ci~encias da Computação
+- 🎓 Cursando Ciências da Computação
 - 💼 Focado em desenvolvimento Backend
 - 📚 Sempre aprendendo algo novo
 - 🎯 Objetivo: Crescer como desenvolvedor e criar projetos impactantes para sociedade e para o meu dia a dia
