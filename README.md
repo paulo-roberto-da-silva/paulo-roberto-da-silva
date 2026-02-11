@@ -14,6 +14,7 @@
 - 💼 Focado em desenvolvimento Backend
 - 📚 Sempre aprendendo algo novo
 - 🎯 Objetivo: Crescer como desenvolvedor e criar projetos impactantes para sociedade e para o meu dia a dia
+- 🧳 Mudando para Linux Mint
 
 ---
 
@@ -21,6 +22,9 @@
 
 <div>
 
+
+<img aliggn="center" alt="Paulo_Mint" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-plain.svg" />
+<img aliggn="center" alt="Paulo_Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img aliggn="center" alt="Paulo_Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img aliggn="center" alt="Paulo_JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img aliggn="center" alt="Paulo_Json" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
