@@ -12,6 +12,7 @@
 
 ## 🛠️ Tecnologias
 
+![Java](https://img.shields.io/badge/Java-cfcfcf?style=for-the-badge&logo=**openjdk**&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2196f3?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
