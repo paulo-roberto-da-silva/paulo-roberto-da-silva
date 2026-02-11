@@ -12,11 +12,7 @@
 
 ## 🛠️ Tecnologias
 
-
-<p align="left">
-  <img src="assets/A_digital_badge_badge_for_Java_is_designed_for_Git.png" width="180">
-</p>
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2196f3?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
