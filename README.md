@@ -10,7 +10,12 @@
 - 🎯 Objetivo: Crescer como desenvolvedor e criar projetos impactantes para sociedade e para o meu dia a dia
 - 🧳 Mudando para Linux Mint
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulo-roberto-da-silva&show_icons=true&theme=dark)](https://github.com/paulo-roberto-da-silva)
+# Tema Roxo/Purple
+[![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulo-roberto-da-silva&theme=dark)](https://github.com/paulo-roberto-da-silva)
+
+[![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulo-roberto-da-silva&theme=dark)](https://github.com/paulo-roberto-da-silva)
+
+[![Top Langs Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulo-roberto-da-silva&theme=dark)](https://github.com/paulo-roberto-da-silva)
 
 ---
 
