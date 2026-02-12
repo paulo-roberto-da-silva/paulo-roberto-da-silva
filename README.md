@@ -1,3 +1,6 @@
+![GitHub Repo Banner](https://ghrb.waren.build/banner?header=Paulo+Roberto&subheader=Programador+Backend+ao+seu+dispor&bg=1A1A1A-4A4A4A&color=FFFFFF&subheadercolor=9500B3&headerfont=Jersey+10&subheaderfont=Roboto&support=false)
+<!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
+<!--
 <h1 align="center">Olá! Eu sou o Paulo 👋</h1>
 
 <p align="center">
@@ -7,7 +10,7 @@
 </p>
 
 <hr>
-
+-->
 ## 🚀 Um pouco sobre mim
 
 - 🎓 Cursando Ciências da Computação
