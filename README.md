@@ -10,6 +10,8 @@
 - 🎯 Objetivo: Crescer como desenvolvedor e criar projetos impactantes para sociedade e para o meu dia a dia
 - 🧳 Mudando para Linux Mint
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulo-roberto-da-silva&show_icons=true&theme=dark)](https://github.com/paulo-roberto-da-silva)
+
 ---
 
 ## 🛠️ Tecnologias
