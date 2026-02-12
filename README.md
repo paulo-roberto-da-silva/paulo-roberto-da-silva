@@ -41,7 +41,7 @@
 
 ## 🌎 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-roberto-da-silva-7b293027a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-roberto-da-silva-7b293027a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
 ---
