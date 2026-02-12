@@ -1,4 +1,4 @@
-<h1 align="center">Olá eu sou o Paulo Roberto</h1>
+<h1 align="center">Olá! Eu sou o Paulo 👋</h1>
 
 <p align="center">
   💻 Cursando Ciências da Computação <br>
@@ -53,6 +53,9 @@
 ---
 
 ⭐ Sempre aberto a oportunidades e colaboração em projetos Back-End.
+
+<!--Css -->
+
 
 <!--
 **paulo-roberto-da-silva/paulo-roberto-da-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
