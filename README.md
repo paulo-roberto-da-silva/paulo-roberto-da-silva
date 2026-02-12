@@ -1,4 +1,4 @@
-![GitHub Repo Banner](https://ghrb.waren.build/banner?header=Paulo+Roberto&subheader=Programador+Backend+ao+seu+dispor&bg=1A1A1A-4A4A4A&color=FFFFFF&subheadercolor=9500B3&headerfont=Jersey+10&subheaderfont=Roboto&support=false)
+![GitHub Repo Banner](https://ghrb.waren.build/banner?header=Ol%C3%A1%21+Eu+sou+o+Paulo+%F0%9F%91%8B&subheader=Programador+Back-end+ao+seu+dispor%21&bg=1a1a1a-4a4a4a&color=FFFFFF&subheadercolor=58ff82&headerfont=Jersey+20&subheaderfont=Kinewave&support=false)
 <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
 
 ## 🚀 Um pouco sobre mim
@@ -59,8 +59,7 @@
 
 ⭐ Sempre aberto a oportunidades e colaboração em projetos Back-End.
 
-![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%21%5Blinuxmint%5D+%21%5Bgithub%5D&subheader=%21%5Bpython%5DAberto+a+oportunidades+e+colabora%C3%A7%C3%A3o+em+projetos+Back-End+%21%5Bjavascript%5D&bg=4a4a4a-1a1a1a&color=FFFFFF&subheadercolor=9000B8&headerfont=Permanent+Marker&subheaderfont=Kinewave&support=false)
-<!--Css -->
+![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%21%5Blinuxmint%5D+%21%5Bgithub%5D&subheader=%21%5Bpython%5DAberto+a+oportunidades+e+colabora%C3%A7%C3%A3o+em+projetos+Back-End+%21%5Bjavascript%5D&bg=4a4a4a-1a1a1a&color=FFFFFF&subheadercolor=58ff82&headerfont=Permanent+Marker&subheaderfont=Kinewave&support=false)<!--Css -->
 
 
 <!--
