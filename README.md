@@ -1,19 +1,10 @@
 ![GitHub Repo Banner](https://ghrb.waren.build/banner?header=Paulo+Roberto&subheader=Programador+Backend+ao+seu+dispor&bg=1A1A1A-4A4A4A&color=FFFFFF&subheadercolor=9500B3&headerfont=Jersey+10&subheaderfont=Roboto&support=false)
 <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
-<!--
-<h1 align="center">Olá! Eu sou o Paulo 👋</h1>
 
-<p align="center">
-  💻 Cursando Ciências da Computação <br>
-  🎯 APIs, sistemas e boas práticas <br>
-  📍 Brasil
-</p>
-
-<hr>
--->
 ## 🚀 Um pouco sobre mim
 
 - 🎓 Cursando Ciências da Computação
+- Maceió, Alagoas, Brasil
 - 💼 Focado em desenvolvimento Backend
 - 📚 Sempre aprendendo algo novo
 - 🎯 Objetivo: Crescer como desenvolvedor e criar projetos impactantes para sociedade e para o meu dia a dia
@@ -42,15 +33,15 @@
 
 ## 📌 Projetos em Destaque
 
-🔹 API REST com autenticação JWT  
-🔹 Sistema de gerenciamento com banco de dados relacional  
-🔹 Projeto aplicando conceitos de Clean Architecture  
+🔹 
+🔹 
+🔹   
 
 ---
 
 ## 🌎 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-roberto-da-silva-7b293027a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
 ---
